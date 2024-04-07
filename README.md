@@ -38,7 +38,7 @@ Follow Prompts: The application will guide you through each process step by step
 
 That’s it! You’re now using Employee Sync to efficiently manage your organization's employees.
 
-
+https://github.com/marphco/employee-sync/assets/5993166/cb2b99a4-bb9d-48fb-85e7-775065b934d1
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
